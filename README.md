@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI Finance Wellnes app dedicated for MSME<br>👯 I’m looking to collaborate on Open Source projects<br>🤝 I’m looking for help with Backend Development<br>🌱 I’m currently learning Advanced Programming concepts in C<br>💬 Ask me  about anything
+🔭 I’m currently working on Policy Analyser and Impact Predictor<br>👯 I’m looking to collaborate on Open Source projects<br>🤝 I’m looking for help withML Developmentt<br>🌱 I’m currently learning Agentic AI <br>💬 Ask me  about anything
 
 
 ## 🌐 Socials:
