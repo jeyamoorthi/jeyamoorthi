@@ -1,20 +1,52 @@
-# 💫 About Me:
-🔭 I’m currently working on Policy Analyser and Impact Predictor<br>👯 I’m looking to collaborate on Open Source projects<br>🤝 I’m looking for help withML Developmentt<br>🌱 I’m currently learning Agentic AI <br>💬 Ask me  about anything
+﻿# Jeyamoorthi S
 
+AI engineer building reliable, explainable, and policy-aware AI systems.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeyamoorthi-s-273443309/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeyamoorthis25@gmail.com) 
+I build products where correctness matters: compliance, insurance, environmental regulation, and finance.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+## What I Focus On
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jeyamoorthi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=60)<br/>
-![](https://streak-stats.demolab.com?user=jeyamoorthi&theme=dark&hide_border=false&cache_seconds=60)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyamoorthi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=60)
+- Policy memory drift detection for continuously changing rules
+- Grounded RAG systems with citation-first answers
+- Real-time decision pipelines and stateful stream processing
+- Practical AI products with production-ready web interfaces
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cache_seconds=60)
+## Featured Projects
 
----
-[![](https://visitcount.itsvg.in/api?id=jeyamoorthi&icon=0&color=0)](https://visitcount.itsvg.in)
+### [PolicySentinel](https://github.com/jeyamoorthi/policy-memory-drift-engine)
+Continuous policy monitoring and semantic drift detection engine to keep AI memory aligned with the latest policy state.
+
+### [AREE - Autonomous Regulatory Escalation Engine](https://github.com/jeyamoorthi/urbanlive-ai)
+Stateful escalation system for air-quality governance using Pathway, WAQI, NASA FIRMS, and explainable decision traces.
+
+### [SureClaim AI](https://github.com/jeyamoorthi/SureClaim-AI)
+Insurance claims copilot that retrieves verified policy clauses and returns auditable, citation-backed decisions.
+
+### [FinSage AI](https://github.com/jeyamoorthi/AI-FINANCE)
+AI-powered personal finance platform with analytics, scenario simulation, and advisory workflows.
+
+### [CBAM Bridge Dashboard](https://github.com/jeyamoorthi/v0-cbam-bridge-dashboard)
+Next.js dashboard prototype for climate reporting and cross-border adjustment workflows.
+
+## Tech Stack
+
+`Python` `JavaScript` `TypeScript` `React` `Next.js` `Vite` `Pathway` `Firebase` `Google Cloud` `Node.js` `MySQL` `Vercel`
+
+## Current Work
+
+- Policy analyzer and impact predictor systems
+- Agentic AI orchestration patterns
+- Enterprise-safe AI workflows with strong auditability
+
+## Connect
+
+- LinkedIn: [jeyamoorthi-s-273443309](https://www.linkedin.com/in/jeyamoorthi-s-273443309/)
+- Email: [jeyamoorthis25@gmail.com](mailto:jeyamoorthis25@gmail.com)
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=jeyamoorthi&show_icons=true&theme=default)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jeyamoorthi&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyamoorthi&layout=compact&theme=default)
+
+Open to collaborating on AI systems, open-source tooling, and high-impact production builds.
