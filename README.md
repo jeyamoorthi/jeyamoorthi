@@ -1,52 +1,27 @@
-﻿# Jeyamoorthi S
+# 💫 About Me:
+Passionate Computer Science Engineering student focused on building impactful AI-powered products and scalable digital solutions.<br><br>💡 Founder & Builder at AZUO Technologies, working on next-generation AI systems, automation tools, and real-world problem-solving platforms.<br><br>🌱 Currently building projects in:<br><br>AI Finance Wellness Platform for MSMEs<br>SmartAgri – AI-powered agriculture assistant<br>Domain-Tuned Agentic AI systems for explainable decision-making<br>Voice-based AI navigation & multilingual AI assistants<br><br>🧠 Skilled in:<br><br>Artificial Intelligence & Generative AI<br>FastAPI, Python & Backend Engineering<br>FlutterFlow & Full Stack Development<br>Firebase, Cloud Integration & APIs<br>Computer Vision & AI Automation Systems<br><br>🤝 Open to collaborating on:<br><br>AI Startups<br>SaaS Products<br>Hackathons & Innovation Projects<br>DeepTech & Automation Solutions<br><br>📚 Currently learning:<br><br>Multi-Agent AI Architectures<br>LLM Fine-Tuning & RAG Systems<br>Scalable AI Deployment<br>Advanced System Design & Cloud Infrastructure<br><br>🏆 Achievements:<br><br>Winner — SRM Tensor Hackathon 2026 (SmartAgri)<br>Built multiple AI-powered production-ready prototypes<br>Leading real-world startup-oriented development projects as a student<br><br>⚡ Fun Fact:<br>I love transforming ambitious startup ideas into working AI products with professional-grade execution while still being a college student.
 
-AI engineer building reliable, explainable, and policy-aware AI systems.
 
-I build products where correctness matters: compliance, insurance, environmental regulation, and finance.
+## 🌐 Socials:
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Jeyamoorthi S) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeyamoorthis25@gmail.com) 
 
-## What I Focus On
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jeyamoorthi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jeyamoorthi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jeyamoorthi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- Policy memory drift detection for continuously changing rules
-- Grounded RAG systems with citation-first answers
-- Real-time decision pipelines and stateful stream processing
-- Practical AI products with production-ready web interfaces
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jeyamoorthi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Featured Projects
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### [PolicySentinel](https://github.com/jeyamoorthi/policy-memory-drift-engine)
-Continuous policy monitoring and semantic drift detection engine to keep AI memory aligned with the latest policy state.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jeyamoorthi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### [AREE - Autonomous Regulatory Escalation Engine](https://github.com/jeyamoorthi/urbanlive-ai)
-Stateful escalation system for air-quality governance using Pathway, WAQI, NASA FIRMS, and explainable decision traces.
+---
+[![](https://komarev.com/ghpvc/?username=jeyamoorthi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### [SureClaim AI](https://github.com/jeyamoorthi/SureClaim-AI)
-Insurance claims copilot that retrieves verified policy clauses and returns auditable, citation-backed decisions.
-
-### [FinSage AI](https://github.com/jeyamoorthi/AI-FINANCE)
-AI-powered personal finance platform with analytics, scenario simulation, and advisory workflows.
-
-### [CBAM Bridge Dashboard](https://github.com/jeyamoorthi/v0-cbam-bridge-dashboard)
-Next.js dashboard prototype for climate reporting and cross-border adjustment workflows.
-
-## Tech Stack
-
-`Python` `JavaScript` `TypeScript` `React` `Next.js` `Vite` `Pathway` `Firebase` `Google Cloud` `Node.js` `MySQL` `Vercel`
-
-## Current Work
-
-- Policy analyzer and impact predictor systems
-- Agentic AI orchestration patterns
-- Enterprise-safe AI workflows with strong auditability
-
-## Connect
-
-- LinkedIn: [jeyamoorthi-s-273443309](https://www.linkedin.com/in/jeyamoorthi-s-273443309/)
-- Email: [jeyamoorthis25@gmail.com](mailto:jeyamoorthis25@gmail.com)
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=jeyamoorthi&show_icons=true&theme=default)
-![](https://github-readme-streak-stats.herokuapp.com/?user=jeyamoorthi&theme=default)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyamoorthi&layout=compact&theme=default)
-
-Open to collaborating on AI systems, open-source tooling, and high-impact production builds.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
